@@ -593,15 +593,13 @@
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
-    line-height: 106.5%;
+line-height: 106.5%;
     color: #F58A07;
 }
 
 footer{
     background: #063255;
-    width: 100%;
-    height: auto;
-    margin: 0;
+    position: relative;
 }
 .footer-top{
     display: flex;
@@ -696,12 +694,11 @@ input::placeholder{
 }
 .cp{
     margin-top: 40px;
-    margin-bottom: 80px;
 }
-.shaope-left{
+.shape-left{
     position: absolute;
     left: 0;
-    bottom: 500px;
+    bottom: 0;
 }
 .shape-right{
     position:absolute ;
