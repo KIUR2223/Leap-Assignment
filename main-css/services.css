@@ -16,7 +16,7 @@
     position: relative;
 }
 
-.header-nav>ul {
+.nav>ul {
     display: flex;
     font-family: 'Poppins';
     font-style: normal;
@@ -25,11 +25,11 @@
     text-transform: capitalize;
 }
 
-.header-nav>ul>li {
+.nav>ul>li {
     padding-right: 32px;
 }
 
-.header-nav .btn {
+.nav .btn {
     background: rgba(245, 138, 7, 0.1);
     border-radius: 20px;
     padding: 18px 30px;
