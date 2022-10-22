@@ -48,6 +48,7 @@
     line-height: 106.5%;
     color: #F58A07;
 }
+
 .latest-section {
     width: 100%;
 }
@@ -69,7 +70,7 @@
     margin-right: 20px;
     width: 400px;
     height: 500px;
-    background-color: white;
+    background: #EDF7FF;
     border-radius: 20px;
     display: inline-block;
     margin-bottom: 60px;
@@ -100,7 +101,7 @@
 }
 
 .card-body p {
-    padding-left: 50px;
+    padding-left: 30px;
     text-align: justify;
     font-family: 'Poppins';
     font-style: normal;
@@ -111,7 +112,7 @@
 }
 
 .card-body a {
-    padding-left: 50px;
+    padding-left: 30px;
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 500;

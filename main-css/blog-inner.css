@@ -1,11 +1,13 @@
-.blog-img{
+.blog-img {
     margin-top: 80px;
 }
-.blog-post{
+
+.blog-post {
     margin-top: 40px;
     margin-left: 345px;
 }
-.blog-post h1{
+
+.blog-post h1 {
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 600;
@@ -14,7 +16,8 @@
     letter-spacing: -0.03em;
     color: #1D3444;
 }
-.blog-post h2{
+
+.blog-post h2 {
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 600;
@@ -23,7 +26,8 @@
     letter-spacing: -0.03em;
     color: #0D1317;
 }
-.blog-post p{
+
+.blog-post p {
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 500;
