@@ -146,3 +146,7 @@ textarea::placeholder {
     margin-top: 0;
     margin-bottom: 50px;
 }
+.input-text>textarea:nth-child(1) {
+    padding-top: 20px;
+    padding-left: 20px;
+}

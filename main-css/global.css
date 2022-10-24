@@ -66,6 +66,7 @@ footer {
 
 .footer-top {
     display: flex;
+    height: 400px;
 }
 
 .footer-left {
@@ -184,6 +185,7 @@ input::placeholder {
 .shape-right {
     position: absolute;
     right: 0;
+    margin-top: 50px;
 }
 
 .footer-bttm-left {
