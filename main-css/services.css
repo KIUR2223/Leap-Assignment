@@ -74,7 +74,8 @@
 }
 
 .feature-1-right ul>li {
-    padding: 5px;
+    margin-left: 20px;
+    padding: 9px;
     list-style-type: disc;
 }
 
@@ -135,6 +136,7 @@
 }
 
 .feature-3-right ul>li {
+    margin-left: 15px;
     padding: 5px;
     list-style-type: disc;
 }
@@ -236,8 +238,10 @@
 }
 
 .left-top img {
-
+    height: 80px;
+    width: 80px;
     margin-right: 40px;
+    margin-top: 40px;
 }
 
 .left-top h3 {

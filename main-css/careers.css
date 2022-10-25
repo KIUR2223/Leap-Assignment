@@ -146,7 +146,50 @@ textarea::placeholder {
     margin-top: 0;
     margin-bottom: 50px;
 }
+
+.input-text textarea{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #9C9C9C;
+}
+
 .input-text>textarea:nth-child(1) {
     padding-top: 20px;
     padding-left: 20px;
+}
+input #fname{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+}
+input #lname{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;    
+    color: #9C9C9C;
+}
+input #email{
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #9C9C9C;
+}
+
+input #mobile{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #9C9C9C;
 }
