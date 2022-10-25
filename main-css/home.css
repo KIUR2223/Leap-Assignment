@@ -300,24 +300,43 @@
 .service-content {
     display: flex;
     padding: 48px;
+    margin-top: 30px;
 }
 
 .service-section {
     background: #EDF7FF;
     border-radius: 20px;
-    height: auto;
+    height:800px;
     margin-bottom: 100px;
+    position: relative;
+}
+.service-section::after{
+    position: absolute;
+    content: "";
+    background: url(../images/Ribbon.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 150px;
+    height: 150px;
+    right: -12px;
+    top: -12px;
 }
 
 .service-tab {
     display: flex;
-    margin-top: -100px;
     margin-left: 60px;
 
 }
 
 .ribbon img {
     padding-left: 1125px;
+}
+.tabs{
+    margin-top: 90px;
+}
+.tab-1{
+    margin-top: 90px;
 }
 
 .tab-1 a {
