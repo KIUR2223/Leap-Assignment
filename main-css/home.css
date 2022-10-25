@@ -1,3 +1,7 @@
+.nav>ul>li:first-child>a{
+    color: orange;
+}
+
 .feature-article {
     background: #DCEAF5;
     margin: 0;
@@ -590,4 +594,3 @@
     line-height: 106.5%;
     color: #F58A07;
 }
-

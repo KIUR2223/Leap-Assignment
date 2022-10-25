@@ -226,3 +226,16 @@ input::placeholder {
     transition: 0.5s;
     margin-left: 6px;
 }
+
+.social-icon .fb:hover{
+    color: blue;
+}
+.social-icon .yt:hover{
+    color: red;
+}
+.social-icon .ig:hover{
+    color: pink;
+}
+.social-icon .tw:hover{
+   color: #1DA1F2;
+}
