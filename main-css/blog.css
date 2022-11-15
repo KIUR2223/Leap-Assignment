@@ -20,8 +20,9 @@
 
 .header-right img {
     margin-left: 100px;
-    margin-top: 70px;
+    margin-top: 128px;
     position: absolute;
+    border-radius: 20px;
 }
 
 .header-left h1 {
